@@ -1,0 +1,449 @@
+[2021-12-31 10:25:06] | [info] | lbs.js       | 16880188           | [01049220504] Request Body : sejongdr3#sejongdr3#01049220504
+[2021-12-31 10:25:06] | [info] | lbs.js       | 16880188           | [01049220504] LBS Socket Connected
+[2021-12-31 10:25:14] | [info] | lbs.js       | 16880188           | [01049220504] Receive Data : 01049220504 #KTF#37547493  #127135334 #20211231102513#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 10:25:14] | [info] | lbs.js       | 16880188           | [01049220504] Return Data : 37.547493 ,127.135334
+[2021-12-31 10:25:14] | [info] | home.js      | 16880188           | [01049220504] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 10:25:14] | [info] | kakao.js     | 16880188           | [01049220504] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 10:25:14] | [info] | lbs.js       | 16880188           | [01049220504] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:25:14] | [info] | lbs.js       | 16880188           | [01049220504] 소켓 닫힘
+[2021-12-31 10:25:14] | [info] | kakao.js     | 16880188           | [01049220504] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:25:14] | [info] | home.js      | 16880188           | [01049220504] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:27:14] | [info] | lbs.js       | 16880188           | [01076583415] Request Body : sejongdr3#sejongdr3#01076583415
+[2021-12-31 10:27:14] | [info] | lbs.js       | 16880188           | [01076583415] LBS Socket Connected
+[2021-12-31 10:27:15] | [info] | lbs.js       | 16880188           | [01076583415] Receive Data : 01076583415 #LGT#37338055  #127103608 #20211231102714#       #경기 용인시 수지구 동천동                         #C
+[2021-12-31 10:27:15] | [info] | lbs.js       | 16880188           | [01076583415] Return Data : 37.338055 ,127.103608
+[2021-12-31 10:27:15] | [info] | home.js      | 16880188           | [01076583415] lbs_data result : {"a":"37.338055","b":"127.103608"}
+[2021-12-31 10:27:15] | [info] | kakao.js     | 16880188           | [01076583415] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.103608&y=37.338055
+[2021-12-31 10:27:15] | [info] | lbs.js       | 16880188           | [01076583415] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:27:15] | [info] | lbs.js       | 16880188           | [01076583415] 소켓 닫힘
+[2021-12-31 10:27:15] | [info] | kakao.js     | 16880188           | [01076583415] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 수지구 동천동 215-1","region_1depth_name":"경기","region_2depth_name":"용인시 수지구","region_3depth_name":"동천동","mountain_yn":"N","main_address_no":"215","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 10:27:15] | [info] | home.js      | 16880188           | [01076583415] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 수지구 동천동 215-1","region_1depth_name":"경기","region_2depth_name":"용인시 수지구","region_3depth_name":"동천동","mountain_yn":"N","main_address_no":"215","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 10:27:33] | [info] | lbs.js       | 16880188           | [01076583415] Request Body : sejongdr3#sejongdr3#01076583415
+[2021-12-31 10:27:33] | [info] | lbs.js       | 16880188           | [01076583415] LBS Socket Connected
+[2021-12-31 10:27:34] | [info] | lbs.js       | 16880188           | [01076583415] Receive Data : 01076583415 #LGT#37338055  #127103608 #20211231102734#       #경기 용인시 수지구 동천동                         #C
+[2021-12-31 10:27:34] | [info] | lbs.js       | 16880188           | [01076583415] Return Data : 37.338055 ,127.103608
+[2021-12-31 10:27:34] | [info] | home.js      | 16880188           | [01076583415] lbs_data result : {"a":"37.338055","b":"127.103608"}
+[2021-12-31 10:27:34] | [info] | kakao.js     | 16880188           | [01076583415] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.103608&y=37.338055
+[2021-12-31 10:27:34] | [info] | lbs.js       | 16880188           | [01076583415] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:27:34] | [info] | lbs.js       | 16880188           | [01076583415] 소켓 닫힘
+[2021-12-31 10:27:34] | [info] | kakao.js     | 16880188           | [01076583415] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 수지구 동천동 215-1","region_1depth_name":"경기","region_2depth_name":"용인시 수지구","region_3depth_name":"동천동","mountain_yn":"N","main_address_no":"215","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 10:27:34] | [info] | home.js      | 16880188           | [01076583415] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 수지구 동천동 215-1","region_1depth_name":"경기","region_2depth_name":"용인시 수지구","region_3depth_name":"동천동","mountain_yn":"N","main_address_no":"215","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 10:36:20] | [info] | lbs.js       | 16880188           | [01037913935] Request Body : sejongdr3#sejongdr3#01037913935
+[2021-12-31 10:36:20] | [info] | lbs.js       | 16880188           | [01037913935] LBS Socket Connected
+[2021-12-31 10:36:21] | [info] | lbs.js       | 16880188           | [01037913935] Receive Data : 01037913935 #   #          #          #20211231103619#       #                                                  # 
+[2021-12-31 10:36:21] | [info] | lbs.js       | 16880188           | [01037913935] Return Data :   .       ,   .      
+[2021-12-31 10:36:21] | [info] | home.js      | 16880188           | [01037913935] lbs_data result : {"a":"  .      ","b":"   .      "}
+[2021-12-31 10:36:21] | [info] | lbs.js       | 16880188           | [01037913935] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:36:21] | [info] | lbs.js       | 16880188           | [01037913935] 소켓 닫힘
+[2021-12-31 10:39:19] | [info] | lbs.js       | 16880188           | [01076583415] Request Body : sejongdr3#sejongdr3#01076583415
+[2021-12-31 10:39:19] | [info] | lbs.js       | 16880188           | [01076583415] LBS Socket Connected
+[2021-12-31 10:39:20] | [info] | lbs.js       | 16880188           | [01076583415] Receive Data : 01076583415 #LGT#37338055  #127103608 #20211231103919#       #경기 용인시 수지구 동천동                         #C
+[2021-12-31 10:39:20] | [info] | lbs.js       | 16880188           | [01076583415] Return Data : 37.338055 ,127.103608
+[2021-12-31 10:39:20] | [info] | home.js      | 16880188           | [01076583415] lbs_data result : {"a":"37.338055","b":"127.103608"}
+[2021-12-31 10:39:20] | [info] | kakao.js     | 16880188           | [01076583415] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.103608&y=37.338055
+[2021-12-31 10:39:20] | [info] | lbs.js       | 16880188           | [01076583415] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:39:20] | [info] | lbs.js       | 16880188           | [01076583415] 소켓 닫힘
+[2021-12-31 10:39:20] | [info] | kakao.js     | 16880188           | [01076583415] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 수지구 동천동 215-1","region_1depth_name":"경기","region_2depth_name":"용인시 수지구","region_3depth_name":"동천동","mountain_yn":"N","main_address_no":"215","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 10:39:20] | [info] | home.js      | 16880188           | [01076583415] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 수지구 동천동 215-1","region_1depth_name":"경기","region_2depth_name":"용인시 수지구","region_3depth_name":"동천동","mountain_yn":"N","main_address_no":"215","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 10:44:41] | [info] | lbs.js       | 16880188           | [01075252925] Request Body : sejongdr3#sejongdr3#01075252925
+[2021-12-31 10:44:41] | [info] | lbs.js       | 16880188           | [01075252925] LBS Socket Connected
+[2021-12-31 10:44:47] | [info] | lbs.js       | 16880188           | [01049220504] Request Body : sejongdr3#sejongdr3#01049220504
+[2021-12-31 10:44:47] | [info] | lbs.js       | 16880188           | [01049220504] LBS Socket Connected
+[2021-12-31 10:44:53] | [info] | lbs.js       | 16880188           | [01075252925] Receive Data : 01075252925 #KTF#37547493  #127135334 #20211231104452#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 10:44:53] | [info] | lbs.js       | 16880188           | [01075252925] Return Data : 37.547493 ,127.135334
+[2021-12-31 10:44:53] | [info] | home.js      | 16880188           | [01075252925] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 10:44:53] | [info] | kakao.js     | 16880188           | [01075252925] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 10:44:53] | [info] | lbs.js       | 16880188           | [01075252925] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:44:53] | [info] | lbs.js       | 16880188           | [01075252925] 소켓 닫힘
+[2021-12-31 10:44:53] | [info] | kakao.js     | 16880188           | [01075252925] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:44:53] | [info] | home.js      | 16880188           | [01075252925] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:44:55] | [info] | lbs.js       | 16880188           | [01035103753] Request Body : sejongdr3#sejongdr3#01035103753
+[2021-12-31 10:44:55] | [info] | lbs.js       | 16880188           | [01035103753] LBS Socket Connected
+[2021-12-31 10:44:58] | [info] | lbs.js       | 16880188           | [01049220504] Receive Data : 01049220504 #KTF#37547493  #127135334 #20211231104458#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 10:44:58] | [info] | lbs.js       | 16880188           | [01049220504] Return Data : 37.547493 ,127.135334
+[2021-12-31 10:44:58] | [info] | home.js      | 16880188           | [01049220504] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 10:44:58] | [info] | kakao.js     | 16880188           | [01049220504] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 10:44:58] | [info] | lbs.js       | 16880188           | [01049220504] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:44:58] | [info] | lbs.js       | 16880188           | [01049220504] 소켓 닫힘
+[2021-12-31 10:44:58] | [info] | kakao.js     | 16880188           | [01049220504] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:44:58] | [info] | home.js      | 16880188           | [01049220504] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:45:10] | [info] | lbs.js       | 16880188           | [01035103753] 소켓 타임아웃
+[2021-12-31 10:45:10] | [info] | home.js      | 16880188           | [01035103753] lbs_data result : "noLbsData"
+[2021-12-31 10:45:10] | [info] | lbs.js       | 16880188           | [01035103753] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:45:10] | [info] | lbs.js       | 16880188           | [01035103753] 소켓 닫힘
+[2021-12-31 10:45:10] | [info] | lbs.js       | 16880188           | [01067201585] Request Body : sejongdr3#sejongdr3#01067201585
+[2021-12-31 10:45:10] | [info] | lbs.js       | 16880188           | [01067201585] LBS Socket Connected
+[2021-12-31 10:45:13] | [info] | lbs.js       | 16880188           | [01067201585] Receive Data : 01067201585 #SKT#37550833  #127173888 #20211231104513#       #서울 강동구 상일동                                #C
+[2021-12-31 10:45:13] | [info] | lbs.js       | 16880188           | [01067201585] Return Data : 37.550833 ,127.173888
+[2021-12-31 10:45:13] | [info] | home.js      | 16880188           | [01067201585] lbs_data result : {"a":"37.550833","b":"127.173888"}
+[2021-12-31 10:45:13] | [info] | kakao.js     | 16880188           | [01067201585] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173888&y=37.550833
+[2021-12-31 10:45:13] | [info] | lbs.js       | 16880188           | [01067201585] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:45:13] | [info] | lbs.js       | 16880188           | [01067201585] 소켓 닫힘
+[2021-12-31 10:45:13] | [info] | kakao.js     | 16880188           | [01067201585] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:45:13] | [info] | home.js      | 16880188           | [01067201585] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:45:24] | [info] | lbs.js       | 16880188           | [01075252925] Request Body : sejongdr3#sejongdr3#01075252925
+[2021-12-31 10:45:24] | [info] | lbs.js       | 16880188           | [01075252925] LBS Socket Connected
+[2021-12-31 10:45:35] | [info] | lbs.js       | 16880188           | [01075252925] Receive Data : 01075252925 #KTF#37547493  #127135334 #20211231104535#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 10:45:35] | [info] | lbs.js       | 16880188           | [01075252925] Return Data : 37.547493 ,127.135334
+[2021-12-31 10:45:35] | [info] | home.js      | 16880188           | [01075252925] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 10:45:35] | [info] | kakao.js     | 16880188           | [01075252925] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 10:45:35] | [info] | lbs.js       | 16880188           | [01075252925] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:45:35] | [info] | lbs.js       | 16880188           | [01075252925] 소켓 닫힘
+[2021-12-31 10:45:35] | [info] | kakao.js     | 16880188           | [01075252925] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:45:35] | [info] | home.js      | 16880188           | [01075252925] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 10:46:15] | [info] | lbs.js       | 16880188           | [01035103753] Request Body : sejongdr3#sejongdr3#01035103753
+[2021-12-31 10:46:15] | [info] | lbs.js       | 16880188           | [01035103753] LBS Socket Connected
+[2021-12-31 10:46:20] | [info] | lbs.js       | 16880188           | [01082367070] Request Body : sejongdr3#sejongdr3#01082367070
+[2021-12-31 10:46:20] | [info] | lbs.js       | 16880188           | [01082367070] LBS Socket Connected
+[2021-12-31 10:46:21] | [info] | lbs.js       | 16880188           | [01082367070] Receive Data : 01082367070 #LGT#37550829  #127173893 #20211231104621#       #서울 강동구 상일동                                #C
+[2021-12-31 10:46:21] | [info] | lbs.js       | 16880188           | [01082367070] Return Data : 37.550829 ,127.173893
+[2021-12-31 10:46:21] | [info] | home.js      | 16880188           | [01082367070] lbs_data result : {"a":"37.550829","b":"127.173893"}
+[2021-12-31 10:46:21] | [info] | kakao.js     | 16880188           | [01082367070] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173893&y=37.550829
+[2021-12-31 10:46:21] | [info] | lbs.js       | 16880188           | [01082367070] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:46:21] | [info] | lbs.js       | 16880188           | [01082367070] 소켓 닫힘
+[2021-12-31 10:46:21] | [info] | kakao.js     | 16880188           | [01082367070] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:46:21] | [info] | home.js      | 16880188           | [01082367070] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:46:30] | [info] | lbs.js       | 16880188           | [01035103753] 소켓 타임아웃
+[2021-12-31 10:46:30] | [info] | home.js      | 16880188           | [01035103753] lbs_data result : "noLbsData"
+[2021-12-31 10:46:30] | [info] | lbs.js       | 16880188           | [01035103753] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:46:30] | [info] | lbs.js       | 16880188           | [01035103753] 소켓 닫힘
+[2021-12-31 10:47:33] | [info] | lbs.js       | 16880188           | [01090438074] Request Body : sejongdr3#sejongdr3#01090438074
+[2021-12-31 10:47:33] | [info] | lbs.js       | 16880188           | [01090438074] LBS Socket Connected
+[2021-12-31 10:47:43] | [info] | lbs.js       | 16880188           | [01090438074] Receive Data : 01090438074 #KTF#37550615  #127170696 #20211231104743#000000 #서울 강동구 상일제1동                             #C
+[2021-12-31 10:47:43] | [info] | lbs.js       | 16880188           | [01090438074] Return Data : 37.550615 ,127.170696
+[2021-12-31 10:47:43] | [info] | home.js      | 16880188           | [01090438074] lbs_data result : {"a":"37.550615","b":"127.170696"}
+[2021-12-31 10:47:43] | [info] | kakao.js     | 16880188           | [01090438074] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.170696&y=37.550615
+[2021-12-31 10:47:43] | [info] | lbs.js       | 16880188           | [01090438074] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:47:43] | [info] | lbs.js       | 16880188           | [01090438074] 소켓 닫힘
+[2021-12-31 10:47:43] | [info] | kakao.js     | 16880188           | [01090438074] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 192","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"192","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:47:43] | [info] | home.js      | 16880188           | [01090438074] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 192","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"192","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:47:59] | [info] | lbs.js       | 16880188           | [01082367070] Request Body : sejongdr3#sejongdr3#01082367070
+[2021-12-31 10:47:59] | [info] | lbs.js       | 16880188           | [01082367070] LBS Socket Connected
+[2021-12-31 10:47:59] | [info] | lbs.js       | 16880188           | [01082367070] Receive Data : 01082367070 #LGT#37550829  #127173893 #20211231104759#       #서울 강동구 상일동                                #C
+[2021-12-31 10:47:59] | [info] | lbs.js       | 16880188           | [01082367070] Return Data : 37.550829 ,127.173893
+[2021-12-31 10:47:59] | [info] | home.js      | 16880188           | [01082367070] lbs_data result : {"a":"37.550829","b":"127.173893"}
+[2021-12-31 10:47:59] | [info] | kakao.js     | 16880188           | [01082367070] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173893&y=37.550829
+[2021-12-31 10:47:59] | [info] | lbs.js       | 16880188           | [01082367070] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:47:59] | [info] | lbs.js       | 16880188           | [01082367070] 소켓 닫힘
+[2021-12-31 10:47:59] | [info] | kakao.js     | 16880188           | [01082367070] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:47:59] | [info] | home.js      | 16880188           | [01082367070] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:51:06] | [info] | lbs.js       | 16880188           | [01063710762] Request Body : sejongdr3#sejongdr3#01063710762
+[2021-12-31 10:51:06] | [info] | lbs.js       | 16880188           | [01063710762] LBS Socket Connected
+[2021-12-31 10:51:11] | [info] | lbs.js       | 16880188           | [01063710762] Receive Data : 01063710762 #SKT#37550833  #127173888 #20211231105110#       #서울 강동구 상일동                                #C
+[2021-12-31 10:51:11] | [info] | lbs.js       | 16880188           | [01063710762] Return Data : 37.550833 ,127.173888
+[2021-12-31 10:51:11] | [info] | home.js      | 16880188           | [01063710762] lbs_data result : {"a":"37.550833","b":"127.173888"}
+[2021-12-31 10:51:11] | [info] | kakao.js     | 16880188           | [01063710762] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173888&y=37.550833
+[2021-12-31 10:51:11] | [info] | lbs.js       | 16880188           | [01063710762] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:51:11] | [info] | lbs.js       | 16880188           | [01063710762] 소켓 닫힘
+[2021-12-31 10:51:11] | [info] | kakao.js     | 16880188           | [01063710762] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:51:11] | [info] | home.js      | 16880188           | [01063710762] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:56:58] | [info] | lbs.js       | 16880188           | [01032230132] Request Body : sejongdr3#sejongdr3#01032230132
+[2021-12-31 10:56:58] | [info] | lbs.js       | 16880188           | [01032230132] LBS Socket Connected
+[2021-12-31 10:56:59] | [info] | lbs.js       | 16880188           | [01032230132] Receive Data : 01032230132 #SKT#37550833  #127173888 #20211231105657#       #서울 강동구 상일동                                #C
+[2021-12-31 10:56:59] | [info] | lbs.js       | 16880188           | [01032230132] Return Data : 37.550833 ,127.173888
+[2021-12-31 10:56:59] | [info] | home.js      | 16880188           | [01032230132] lbs_data result : {"a":"37.550833","b":"127.173888"}
+[2021-12-31 10:56:59] | [info] | kakao.js     | 16880188           | [01032230132] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173888&y=37.550833
+[2021-12-31 10:56:59] | [info] | lbs.js       | 16880188           | [01032230132] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:56:59] | [info] | lbs.js       | 16880188           | [01032230132] 소켓 닫힘
+[2021-12-31 10:56:59] | [info] | kakao.js     | 16880188           | [01032230132] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:56:59] | [info] | home.js      | 16880188           | [01032230132] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:57:08] | [info] | lbs.js       | 16880188           | [01045768262] Request Body : sejongdr3#sejongdr3#01045768262
+[2021-12-31 10:57:08] | [info] | lbs.js       | 16880188           | [01045768262] LBS Socket Connected
+[2021-12-31 10:57:23] | [info] | lbs.js       | 16880188           | [01045768262] 소켓 타임아웃
+[2021-12-31 10:57:23] | [info] | home.js      | 16880188           | [01045768262] lbs_data result : "noLbsData"
+[2021-12-31 10:57:23] | [info] | lbs.js       | 16880188           | [01045768262] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:57:23] | [info] | lbs.js       | 16880188           | [01045768262] 소켓 닫힘
+[2021-12-31 10:58:46] | [info] | lbs.js       | 16880188           | [01045768262] Request Body : sejongdr3#sejongdr3#01045768262
+[2021-12-31 10:58:46] | [info] | lbs.js       | 16880188           | [01045768262] LBS Socket Connected
+[2021-12-31 10:58:54] | [info] | lbs.js       | 16880188           | [01032230132] Request Body : sejongdr3#sejongdr3#01032230132
+[2021-12-31 10:58:54] | [info] | lbs.js       | 16880188           | [01032230132] LBS Socket Connected
+[2021-12-31 10:58:55] | [info] | lbs.js       | 16880188           | [01032230132] Receive Data : 01032230132 #SKT#37550833  #127173888 #20211231105854#       #서울 강동구 상일동                                #C
+[2021-12-31 10:58:55] | [info] | lbs.js       | 16880188           | [01032230132] Return Data : 37.550833 ,127.173888
+[2021-12-31 10:58:55] | [info] | home.js      | 16880188           | [01032230132] lbs_data result : {"a":"37.550833","b":"127.173888"}
+[2021-12-31 10:58:55] | [info] | kakao.js     | 16880188           | [01032230132] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173888&y=37.550833
+[2021-12-31 10:58:55] | [info] | lbs.js       | 16880188           | [01032230132] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:58:55] | [info] | lbs.js       | 16880188           | [01032230132] 소켓 닫힘
+[2021-12-31 10:58:55] | [info] | kakao.js     | 16880188           | [01032230132] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:58:55] | [info] | home.js      | 16880188           | [01032230132] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 10:59:01] | [info] | lbs.js       | 16880188           | [01045768262] 소켓 타임아웃
+[2021-12-31 10:59:01] | [info] | home.js      | 16880188           | [01045768262] lbs_data result : "noLbsData"
+[2021-12-31 10:59:01] | [info] | lbs.js       | 16880188           | [01045768262] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 10:59:01] | [info] | lbs.js       | 16880188           | [01045768262] 소켓 닫힘
+[2021-12-31 11:03:51] | [info] | lbs.js       | 16880188           | [01032230136] Request Body : sejongdr3#sejongdr3#01032230136
+[2021-12-31 11:03:51] | [info] | lbs.js       | 16880188           | [01032230136] LBS Socket Connected
+[2021-12-31 11:03:52] | [info] | lbs.js       | 16880188           | [01032230136] Receive Data : 01032230136 #SKT#37550502  #127174290 #20211231110351#       #서울 강동구 상일동                                #P
+[2021-12-31 11:03:52] | [info] | lbs.js       | 16880188           | [01032230136] Return Data : 37.550502 ,127.174290
+[2021-12-31 11:03:52] | [info] | home.js      | 16880188           | [01032230136] lbs_data result : {"a":"37.550502","b":"127.174290"}
+[2021-12-31 11:03:52] | [info] | kakao.js     | 16880188           | [01032230136] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.174290&y=37.550502
+[2021-12-31 11:03:52] | [info] | lbs.js       | 16880188           | [01032230136] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:03:52] | [info] | lbs.js       | 16880188           | [01032230136] 소켓 닫힘
+[2021-12-31 11:03:52] | [info] | kakao.js     | 16880188           | [01032230136] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 46","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"46","sub_building_no":"","building_name":"세스코 터치센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501-1","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 11:03:52] | [info] | home.js      | 16880188           | [01032230136] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 46","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"46","sub_building_no":"","building_name":"세스코 터치센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501-1","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 11:05:25] | [info] | lbs.js       | 16880188           | [01032230136] Request Body : sejongdr3#sejongdr3#01032230136
+[2021-12-31 11:05:25] | [info] | lbs.js       | 16880188           | [01032230136] LBS Socket Connected
+[2021-12-31 11:05:26] | [info] | lbs.js       | 16880188           | [01032230136] Receive Data : 01032230136 #SKT#37550502  #127174290 #20211231110524#       #서울 강동구 상일동                                #P
+[2021-12-31 11:05:26] | [info] | lbs.js       | 16880188           | [01032230136] Return Data : 37.550502 ,127.174290
+[2021-12-31 11:05:26] | [info] | home.js      | 16880188           | [01032230136] lbs_data result : {"a":"37.550502","b":"127.174290"}
+[2021-12-31 11:05:26] | [info] | kakao.js     | 16880188           | [01032230136] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.174290&y=37.550502
+[2021-12-31 11:05:26] | [info] | lbs.js       | 16880188           | [01032230136] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:05:26] | [info] | lbs.js       | 16880188           | [01032230136] 소켓 닫힘
+[2021-12-31 11:05:26] | [info] | kakao.js     | 16880188           | [01032230136] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 46","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"46","sub_building_no":"","building_name":"세스코 터치센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501-1","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 11:05:26] | [info] | home.js      | 16880188           | [01032230136] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 46","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"46","sub_building_no":"","building_name":"세스코 터치센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501-1","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 11:06:09] | [info] | lbs.js       | 16880188           | [01032230136] Request Body : sejongdr3#sejongdr3#01032230136
+[2021-12-31 11:06:09] | [info] | lbs.js       | 16880188           | [01032230136] LBS Socket Connected
+[2021-12-31 11:06:10] | [info] | lbs.js       | 16880188           | [01032230136] Receive Data : 01032230136 #SKT#37551111  #127174444 #20211231110609#       #서울 강동구 상일동                                #C
+[2021-12-31 11:06:10] | [info] | lbs.js       | 16880188           | [01032230136] Return Data : 37.551111 ,127.174444
+[2021-12-31 11:06:10] | [info] | home.js      | 16880188           | [01032230136] lbs_data result : {"a":"37.551111","b":"127.174444"}
+[2021-12-31 11:06:10] | [info] | kakao.js     | 16880188           | [01032230136] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.174444&y=37.551111
+[2021-12-31 11:06:10] | [info] | lbs.js       | 16880188           | [01032230136] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:06:10] | [info] | lbs.js       | 16880188           | [01032230136] 소켓 닫힘
+[2021-12-31 11:06:10] | [info] | kakao.js     | 16880188           | [01032230136] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 503","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"503","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:06:10] | [info] | home.js      | 16880188           | [01032230136] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 503","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"503","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:06:20] | [info] | lbs.js       | 16880188           | [01026792211] Request Body : sejongdr3#sejongdr3#01026792211
+[2021-12-31 11:06:20] | [info] | lbs.js       | 16880188           | [01026792211] LBS Socket Connected
+[2021-12-31 11:06:23] | [info] | lbs.js       | 16880188           | [01026792211] Receive Data : 01026792211 #SKT#37550833  #127173888 #20211231110622#       #서울 강동구 상일동                                #C
+[2021-12-31 11:06:23] | [info] | lbs.js       | 16880188           | [01026792211] Return Data : 37.550833 ,127.173888
+[2021-12-31 11:06:23] | [info] | home.js      | 16880188           | [01026792211] lbs_data result : {"a":"37.550833","b":"127.173888"}
+[2021-12-31 11:06:23] | [info] | kakao.js     | 16880188           | [01026792211] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173888&y=37.550833
+[2021-12-31 11:06:23] | [info] | lbs.js       | 16880188           | [01026792211] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:06:23] | [info] | lbs.js       | 16880188           | [01026792211] 소켓 닫힘
+[2021-12-31 11:06:23] | [info] | kakao.js     | 16880188           | [01026792211] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:06:23] | [info] | home.js      | 16880188           | [01026792211] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:07:33] | [info] | lbs.js       | 16880188           | [01090914556] Request Body : sejongdr3#sejongdr3#01090914556
+[2021-12-31 11:07:33] | [info] | lbs.js       | 16880188           | [01090914556] LBS Socket Connected
+[2021-12-31 11:07:34] | [info] | lbs.js       | 16880188           | [01090914556] Receive Data : 01090914556 #LGT#37386667  #127234994 #20211231110734#       #경기 광주시 태전동                                #C
+[2021-12-31 11:07:34] | [info] | lbs.js       | 16880188           | [01090914556] Return Data : 37.386667 ,127.234994
+[2021-12-31 11:07:34] | [info] | home.js      | 16880188           | [01090914556] lbs_data result : {"a":"37.386667","b":"127.234994"}
+[2021-12-31 11:07:34] | [info] | kakao.js     | 16880188           | [01090914556] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.234994&y=37.386667
+[2021-12-31 11:07:34] | [info] | lbs.js       | 16880188           | [01090914556] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:07:34] | [info] | lbs.js       | 16880188           | [01090914556] 소켓 닫힘
+[2021-12-31 11:07:34] | [info] | kakao.js     | 16880188           | [01090914556] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 광주시 태전동 168-2","region_1depth_name":"경기","region_2depth_name":"광주시","region_3depth_name":"태전동","mountain_yn":"N","main_address_no":"168","sub_address_no":"2","zip_code":""}}]}
+[2021-12-31 11:07:34] | [info] | home.js      | 16880188           | [01090914556] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 광주시 태전동 168-2","region_1depth_name":"경기","region_2depth_name":"광주시","region_3depth_name":"태전동","mountain_yn":"N","main_address_no":"168","sub_address_no":"2","zip_code":""}}]}
+[2021-12-31 11:07:58] | [info] | lbs.js       | 16880188           | [01090914556] Request Body : sejongdr3#sejongdr3#01090914556
+[2021-12-31 11:07:58] | [info] | lbs.js       | 16880188           | [01090914556] LBS Socket Connected
+[2021-12-31 11:07:59] | [info] | lbs.js       | 16880188           | [01090914556] Receive Data : 01090914556 #LGT#37386667  #127234994 #20211231110758#       #경기 광주시 태전동                                #C
+[2021-12-31 11:07:59] | [info] | lbs.js       | 16880188           | [01090914556] Return Data : 37.386667 ,127.234994
+[2021-12-31 11:07:59] | [info] | home.js      | 16880188           | [01090914556] lbs_data result : {"a":"37.386667","b":"127.234994"}
+[2021-12-31 11:07:59] | [info] | kakao.js     | 16880188           | [01090914556] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.234994&y=37.386667
+[2021-12-31 11:07:59] | [info] | lbs.js       | 16880188           | [01090914556] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:07:59] | [info] | lbs.js       | 16880188           | [01090914556] 소켓 닫힘
+[2021-12-31 11:07:59] | [info] | kakao.js     | 16880188           | [01090914556] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 광주시 태전동 168-2","region_1depth_name":"경기","region_2depth_name":"광주시","region_3depth_name":"태전동","mountain_yn":"N","main_address_no":"168","sub_address_no":"2","zip_code":""}}]}
+[2021-12-31 11:07:59] | [info] | home.js      | 16880188           | [01090914556] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 광주시 태전동 168-2","region_1depth_name":"경기","region_2depth_name":"광주시","region_3depth_name":"태전동","mountain_yn":"N","main_address_no":"168","sub_address_no":"2","zip_code":""}}]}
+[2021-12-31 11:14:28] | [info] | lbs.js       | 16880188           | [01053823759] Request Body : sejongdr3#sejongdr3#01053823759
+[2021-12-31 11:14:28] | [info] | lbs.js       | 16880188           | [01053823759] LBS Socket Connected
+[2021-12-31 11:14:40] | [info] | lbs.js       | 16880188           | [01053823759] Receive Data : 01053823759 #KTF#37547493  #127135334 #20211231111440#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 11:14:40] | [info] | lbs.js       | 16880188           | [01053823759] Return Data : 37.547493 ,127.135334
+[2021-12-31 11:14:40] | [info] | home.js      | 16880188           | [01053823759] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 11:14:40] | [info] | kakao.js     | 16880188           | [01053823759] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 11:14:40] | [info] | lbs.js       | 16880188           | [01053823759] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:14:40] | [info] | lbs.js       | 16880188           | [01053823759] 소켓 닫힘
+[2021-12-31 11:14:40] | [info] | kakao.js     | 16880188           | [01053823759] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:14:40] | [info] | home.js      | 16880188           | [01053823759] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:15:24] | [info] | lbs.js       | 16880188           | [01053823759] Request Body : sejongdr3#sejongdr3#01053823759
+[2021-12-31 11:15:24] | [info] | lbs.js       | 16880188           | [01053823759] LBS Socket Connected
+[2021-12-31 11:15:30] | [info] | lbs.js       | 16880188           | [01053823759] Receive Data : 01053823759 #KTF#37547493  #127135334 #20211231111530#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 11:15:30] | [info] | lbs.js       | 16880188           | [01053823759] Return Data : 37.547493 ,127.135334
+[2021-12-31 11:15:30] | [info] | home.js      | 16880188           | [01053823759] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 11:15:30] | [info] | kakao.js     | 16880188           | [01053823759] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 11:15:30] | [info] | lbs.js       | 16880188           | [01053823759] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:15:30] | [info] | lbs.js       | 16880188           | [01053823759] 소켓 닫힘
+[2021-12-31 11:15:30] | [info] | kakao.js     | 16880188           | [01053823759] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:15:30] | [info] | home.js      | 16880188           | [01053823759] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:17:48] | [info] | lbs.js       | 16880188           | [01079970114] Request Body : sejongdr3#sejongdr3#01079970114
+[2021-12-31 11:17:48] | [info] | lbs.js       | 16880188           | [01079970114] LBS Socket Connected
+[2021-12-31 11:17:50] | [info] | lbs.js       | 16880188           | [01079970114] Receive Data : 01079970114 #SKT#37550555  #127173888 #20211231111750#       #서울 강동구 상일동                                #C
+[2021-12-31 11:17:50] | [info] | lbs.js       | 16880188           | [01079970114] Return Data : 37.550555 ,127.173888
+[2021-12-31 11:17:50] | [info] | home.js      | 16880188           | [01079970114] lbs_data result : {"a":"37.550555","b":"127.173888"}
+[2021-12-31 11:17:50] | [info] | kakao.js     | 16880188           | [01079970114] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.173888&y=37.550555
+[2021-12-31 11:17:50] | [info] | lbs.js       | 16880188           | [01079970114] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:17:50] | [info] | lbs.js       | 16880188           | [01079970114] 소켓 닫힘
+[2021-12-31 11:17:50] | [info] | kakao.js     | 16880188           | [01079970114] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:17:50] | [info] | home.js      | 16880188           | [01079970114] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 501","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"501","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:18:20] | [info] | lbs.js       | 16880188           | [01079970114] Request Body : sejongdr3#sejongdr3#01079970114
+[2021-12-31 11:18:20] | [info] | lbs.js       | 16880188           | [01079970114] LBS Socket Connected
+[2021-12-31 11:18:22] | [info] | lbs.js       | 16880188           | [01079970114] Receive Data : 01079970114 #SKT#37550914  #127174199 #20211231111822#       #서울 강동구 상일동                                #P
+[2021-12-31 11:18:22] | [info] | lbs.js       | 16880188           | [01079970114] Return Data : 37.550914 ,127.174199
+[2021-12-31 11:18:22] | [info] | home.js      | 16880188           | [01079970114] lbs_data result : {"a":"37.550914","b":"127.174199"}
+[2021-12-31 11:18:22] | [info] | kakao.js     | 16880188           | [01079970114] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.174199&y=37.550914
+[2021-12-31 11:18:22] | [info] | lbs.js       | 16880188           | [01079970114] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:18:22] | [info] | lbs.js       | 16880188           | [01079970114] 소켓 닫힘
+[2021-12-31 11:18:22] | [info] | kakao.js     | 16880188           | [01079970114] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 494","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"494","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:18:22] | [info] | home.js      | 16880188           | [01079970114] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 상일로10길 36","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"상일로10길","underground_yn":"N","main_building_no":"36","sub_building_no":"","building_name":"세종텔레콤 지식산업센터","zone_no":"05288"},"address":{"address_name":"서울 강동구 상일동 494","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"494","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:19:33] | [info] | lbs.js       | 16880188           | [01034459624] Request Body : sejongdr3#sejongdr3#01034459624
+[2021-12-31 11:19:33] | [info] | lbs.js       | 16880188           | [01034459624] LBS Socket Connected
+[2021-12-31 11:19:35] | [info] | lbs.js       | 16880188           | [01034459624] Receive Data : 01034459624 #SKT#37282583  #127154765 #20211231111934#       #경기 용인시 기흥구 동백동                         #W
+[2021-12-31 11:19:35] | [info] | lbs.js       | 16880188           | [01034459624] Return Data : 37.282583 ,127.154765
+[2021-12-31 11:19:35] | [info] | home.js      | 16880188           | [01034459624] lbs_data result : {"a":"37.282583","b":"127.154765"}
+[2021-12-31 11:19:35] | [info] | kakao.js     | 16880188           | [01034459624] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.154765&y=37.282583
+[2021-12-31 11:19:35] | [info] | lbs.js       | 16880188           | [01034459624] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:19:35] | [info] | lbs.js       | 16880188           | [01034459624] 소켓 닫힘
+[2021-12-31 11:19:35] | [info] | kakao.js     | 16880188           | [01034459624] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 기흥구 동백동 654","region_1depth_name":"경기","region_2depth_name":"용인시 기흥구","region_3depth_name":"동백동","mountain_yn":"N","main_address_no":"654","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:19:35] | [info] | home.js      | 16880188           | [01034459624] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 기흥구 동백동 654","region_1depth_name":"경기","region_2depth_name":"용인시 기흥구","region_3depth_name":"동백동","mountain_yn":"N","main_address_no":"654","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:20:02] | [info] | lbs.js       | 16880188           | [01034459624] Request Body : sejongdr3#sejongdr3#01034459624
+[2021-12-31 11:20:02] | [info] | lbs.js       | 16880188           | [01034459624] LBS Socket Connected
+[2021-12-31 11:20:04] | [info] | lbs.js       | 16880188           | [01034459624] Receive Data : 01034459624 #SKT#37282583  #127154765 #20211231112003#       #경기 용인시 기흥구 동백동                         #W
+[2021-12-31 11:20:04] | [info] | lbs.js       | 16880188           | [01034459624] Return Data : 37.282583 ,127.154765
+[2021-12-31 11:20:04] | [info] | home.js      | 16880188           | [01034459624] lbs_data result : {"a":"37.282583","b":"127.154765"}
+[2021-12-31 11:20:04] | [info] | kakao.js     | 16880188           | [01034459624] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.154765&y=37.282583
+[2021-12-31 11:20:04] | [info] | lbs.js       | 16880188           | [01034459624] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:20:04] | [info] | lbs.js       | 16880188           | [01034459624] 소켓 닫힘
+[2021-12-31 11:20:04] | [info] | kakao.js     | 16880188           | [01034459624] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 기흥구 동백동 654","region_1depth_name":"경기","region_2depth_name":"용인시 기흥구","region_3depth_name":"동백동","mountain_yn":"N","main_address_no":"654","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:20:04] | [info] | home.js      | 16880188           | [01034459624] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 용인시 기흥구 동백동 654","region_1depth_name":"경기","region_2depth_name":"용인시 기흥구","region_3depth_name":"동백동","mountain_yn":"N","main_address_no":"654","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:27:28] | [info] | lbs.js       | 16880188           | [01045971113] Request Body : sejongdr3#sejongdr3#01045971113
+[2021-12-31 11:27:28] | [info] | lbs.js       | 16880188           | [01045971113] LBS Socket Connected
+[2021-12-31 11:27:38] | [info] | lbs.js       | 16880188           | [01045971113] Receive Data : 01045971113 #KTF#37547493  #127135334 #20211231112737#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 11:27:38] | [info] | lbs.js       | 16880188           | [01045971113] Return Data : 37.547493 ,127.135334
+[2021-12-31 11:27:38] | [info] | home.js      | 16880188           | [01045971113] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 11:27:38] | [info] | kakao.js     | 16880188           | [01045971113] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 11:27:38] | [info] | lbs.js       | 16880188           | [01045971113] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:27:38] | [info] | lbs.js       | 16880188           | [01045971113] 소켓 닫힘
+[2021-12-31 11:27:38] | [info] | kakao.js     | 16880188           | [01045971113] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:27:38] | [info] | home.js      | 16880188           | [01045971113] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:29:14] | [info] | lbs.js       | 16880188           | [01045971113] Request Body : sejongdr3#sejongdr3#01045971113
+[2021-12-31 11:29:14] | [info] | lbs.js       | 16880188           | [01045971113] LBS Socket Connected
+[2021-12-31 11:29:22] | [info] | lbs.js       | 16880188           | [01045971113] Receive Data : 01045971113 #KTF#37547493  #127135334 #20211231112921#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 11:29:22] | [info] | lbs.js       | 16880188           | [01045971113] Return Data : 37.547493 ,127.135334
+[2021-12-31 11:29:22] | [info] | home.js      | 16880188           | [01045971113] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 11:29:22] | [info] | kakao.js     | 16880188           | [01045971113] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 11:29:22] | [info] | lbs.js       | 16880188           | [01045971113] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:29:22] | [info] | lbs.js       | 16880188           | [01045971113] 소켓 닫힘
+[2021-12-31 11:29:22] | [info] | kakao.js     | 16880188           | [01045971113] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:29:22] | [info] | home.js      | 16880188           | [01045971113] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 11:30:04] | [info] | lbs.js       | 16880188           | [01090438074] Request Body : sejongdr3#sejongdr3#01090438074
+[2021-12-31 11:30:04] | [info] | lbs.js       | 16880188           | [01090438074] LBS Socket Connected
+[2021-12-31 11:30:13] | [info] | lbs.js       | 16880188           | [01090438074] Receive Data : 01090438074 #KTF#37561580  #127168958 #20211231113012#000000 #서울 강동구 고덕제2동                             #C
+[2021-12-31 11:30:13] | [info] | lbs.js       | 16880188           | [01090438074] Return Data : 37.561580 ,127.168958
+[2021-12-31 11:30:13] | [info] | home.js      | 16880188           | [01090438074] lbs_data result : {"a":"37.561580","b":"127.168958"}
+[2021-12-31 11:30:13] | [info] | kakao.js     | 16880188           | [01090438074] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.168958&y=37.561580
+[2021-12-31 11:30:13] | [info] | lbs.js       | 16880188           | [01090438074] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:30:13] | [info] | lbs.js       | 16880188           | [01090438074] 소켓 닫힘
+[2021-12-31 11:30:13] | [info] | kakao.js     | 16880188           | [01090438074] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 고덕로83길 108","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"고덕로83길","underground_yn":"N","main_building_no":"108","sub_building_no":"","building_name":"","zone_no":"05221"},"address":{"address_name":"서울 강동구 고덕동 168","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"고덕동","mountain_yn":"N","main_address_no":"168","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:30:13] | [info] | home.js      | 16880188           | [01090438074] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 고덕로83길 108","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"고덕로83길","underground_yn":"N","main_building_no":"108","sub_building_no":"","building_name":"","zone_no":"05221"},"address":{"address_name":"서울 강동구 고덕동 168","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"고덕동","mountain_yn":"N","main_address_no":"168","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:43:43] | [info] | lbs.js       | 16880188           | [01028886928] Request Body : sejongdr3#sejongdr3#01028886928
+[2021-12-31 11:43:43] | [info] | lbs.js       | 16880188           | [01028886928] LBS Socket Connected
+[2021-12-31 11:43:58] | [info] | lbs.js       | 16880188           | [01028886928] 소켓 타임아웃
+[2021-12-31 11:43:58] | [info] | home.js      | 16880188           | [01028886928] lbs_data result : "noLbsData"
+[2021-12-31 11:43:58] | [info] | lbs.js       | 16880188           | [01028886928] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:43:58] | [info] | lbs.js       | 16880188           | [01028886928] 소켓 닫힘
+[2021-12-31 11:44:12] | [info] | lbs.js       | 16880188           | [01028886928] Request Body : sejongdr3#sejongdr3#01028886928
+[2021-12-31 11:44:12] | [info] | lbs.js       | 16880188           | [01028886928] LBS Socket Connected
+[2021-12-31 11:44:27] | [info] | lbs.js       | 16880188           | [01028886928] 소켓 타임아웃
+[2021-12-31 11:44:27] | [info] | home.js      | 16880188           | [01028886928] lbs_data result : "noLbsData"
+[2021-12-31 11:44:27] | [info] | lbs.js       | 16880188           | [01028886928] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:44:27] | [info] | lbs.js       | 16880188           | [01028886928] 소켓 닫힘
+[2021-12-31 11:44:45] | [info] | lbs.js       | 16880188           | [01049220504] Request Body : sejongdr3#sejongdr3#01049220504
+[2021-12-31 11:44:45] | [info] | lbs.js       | 16880188           | [01049220504] LBS Socket Connected
+[2021-12-31 11:44:53] | [info] | lbs.js       | 16880188           | [01049220504] Receive Data : 01049220504 #KTF#37565006  #127174515 #20211231114453#134737 #서울 강동구 강일동                                #C
+[2021-12-31 11:44:53] | [info] | lbs.js       | 16880188           | [01049220504] Return Data : 37.565006 ,127.174515
+[2021-12-31 11:44:53] | [info] | home.js      | 16880188           | [01049220504] lbs_data result : {"a":"37.565006","b":"127.174515"}
+[2021-12-31 11:44:53] | [info] | kakao.js     | 16880188           | [01049220504] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.174515&y=37.565006
+[2021-12-31 11:44:53] | [info] | lbs.js       | 16880188           | [01049220504] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 11:44:53] | [info] | lbs.js       | 16880188           | [01049220504] 소켓 닫힘
+[2021-12-31 11:44:53] | [info] | kakao.js     | 16880188           | [01049220504] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 아리수로 427","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"아리수로","underground_yn":"N","main_building_no":"427","sub_building_no":"","building_name":"중앙프라자","zone_no":"05211"},"address":{"address_name":"서울 강동구 강일동 679","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"강일동","mountain_yn":"N","main_address_no":"679","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 11:44:53] | [info] | home.js      | 16880188           | [01049220504] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 아리수로 427","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"아리수로","underground_yn":"N","main_building_no":"427","sub_building_no":"","building_name":"중앙프라자","zone_no":"05211"},"address":{"address_name":"서울 강동구 강일동 679","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"강일동","mountain_yn":"N","main_address_no":"679","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 12:07:56] | [info] | lbs.js       | 16880188           | [01038989159] Request Body : sejongdr3#sejongdr3#01038989159
+[2021-12-31 12:07:56] | [info] | lbs.js       | 16880188           | [01038989159] LBS Socket Connected
+[2021-12-31 12:08:06] | [info] | lbs.js       | 16880188           | [01038989159] Receive Data : 01038989159 #KTF#37547493  #127135334 #20211231120805#000000 #서울 강동구 천호제1동                             #C
+[2021-12-31 12:08:06] | [info] | lbs.js       | 16880188           | [01038989159] Return Data : 37.547493 ,127.135334
+[2021-12-31 12:08:06] | [info] | home.js      | 16880188           | [01038989159] lbs_data result : {"a":"37.547493","b":"127.135334"}
+[2021-12-31 12:08:06] | [info] | kakao.js     | 16880188           | [01038989159] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.135334&y=37.547493
+[2021-12-31 12:08:06] | [info] | lbs.js       | 16880188           | [01038989159] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 12:08:06] | [info] | lbs.js       | 16880188           | [01038989159] 소켓 닫힘
+[2021-12-31 12:08:06] | [info] | kakao.js     | 16880188           | [01038989159] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 12:08:06] | [info] | home.js      | 16880188           | [01038989159] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 구천면로46길 8","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"구천면로46길","underground_yn":"N","main_building_no":"8","sub_building_no":"","building_name":"다성이즈빌","zone_no":"05309"},"address":{"address_name":"서울 강동구 천호동 233-61","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"천호동","mountain_yn":"N","main_address_no":"233","sub_address_no":"61","zip_code":""}}]}
+[2021-12-31 12:14:39] | [info] | lbs.js       | 16880188           | [01038989159] Request Body : sejongdr3#sejongdr3#01038989159
+[2021-12-31 12:14:39] | [info] | lbs.js       | 16880188           | [01038989159] LBS Socket Connected
+[2021-12-31 12:14:44] | [info] | lbs.js       | 16880188           | [01038989159] Receive Data : 01038989159 #KTF#37553018  #127170825 #20211231121443#000000 #서울 강동구 상일제1동                             #C
+[2021-12-31 12:14:44] | [info] | lbs.js       | 16880188           | [01038989159] Return Data : 37.553018 ,127.170825
+[2021-12-31 12:14:44] | [info] | home.js      | 16880188           | [01038989159] lbs_data result : {"a":"37.553018","b":"127.170825"}
+[2021-12-31 12:14:44] | [info] | kakao.js     | 16880188           | [01038989159] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.170825&y=37.553018
+[2021-12-31 12:14:44] | [info] | lbs.js       | 16880188           | [01038989159] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 12:14:44] | [info] | lbs.js       | 16880188           | [01038989159] 소켓 닫힘
+[2021-12-31 12:14:44] | [info] | kakao.js     | 16880188           | [01038989159] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 521","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"521","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 12:14:44] | [info] | home.js      | 16880188           | [01038989159] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 521","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"521","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 12:27:39] | [info] | lbs.js       | 16880188           | [01079970114] Request Body : sejongdr3#sejongdr3#01079970114
+[2021-12-31 12:27:39] | [info] | lbs.js       | 16880188           | [01079970114] LBS Socket Connected
+[2021-12-31 12:27:40] | [info] | lbs.js       | 16880188           | [01079970114] Receive Data : 01079970114 #SKT#37522426  #127190107 #20211231122739#       #경기 하남시 춘궁동                                #W
+[2021-12-31 12:27:40] | [info] | lbs.js       | 16880188           | [01079970114] Return Data : 37.522426 ,127.190107
+[2021-12-31 12:27:40] | [info] | home.js      | 16880188           | [01079970114] lbs_data result : {"a":"37.522426","b":"127.190107"}
+[2021-12-31 12:27:40] | [info] | kakao.js     | 16880188           | [01079970114] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.190107&y=37.522426
+[2021-12-31 12:27:40] | [info] | lbs.js       | 16880188           | [01079970114] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 12:27:40] | [info] | lbs.js       | 16880188           | [01079970114] 소켓 닫힘
+[2021-12-31 12:27:40] | [info] | kakao.js     | 16880188           | [01079970114] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 하남시 춘궁동 319-1","region_1depth_name":"경기","region_2depth_name":"하남시","region_3depth_name":"춘궁동","mountain_yn":"N","main_address_no":"319","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 12:27:40] | [info] | home.js      | 16880188           | [01079970114] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 하남시 춘궁동 319-1","region_1depth_name":"경기","region_2depth_name":"하남시","region_3depth_name":"춘궁동","mountain_yn":"N","main_address_no":"319","sub_address_no":"1","zip_code":""}}]}
+[2021-12-31 12:50:02] | [info] | lbs.js       | 16880188           | [01038989159] Request Body : sejongdr3#sejongdr3#01038989159
+[2021-12-31 12:50:02] | [info] | lbs.js       | 16880188           | [01038989159] LBS Socket Connected
+[2021-12-31 12:50:13] | [info] | lbs.js       | 16880188           | [01038989159] Receive Data : 01038989159 #KTF#37551666  #127175095 #20211231125012#000000 #서울 강동구 상일제2동                             #C
+[2021-12-31 12:50:13] | [info] | lbs.js       | 16880188           | [01038989159] Return Data : 37.551666 ,127.175095
+[2021-12-31 12:50:13] | [info] | home.js      | 16880188           | [01038989159] lbs_data result : {"a":"37.551666","b":"127.175095"}
+[2021-12-31 12:50:13] | [info] | kakao.js     | 16880188           | [01038989159] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.175095&y=37.551666
+[2021-12-31 12:50:13] | [info] | lbs.js       | 16880188           | [01038989159] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 12:50:13] | [info] | lbs.js       | 16880188           | [01038989159] 소켓 닫힘
+[2021-12-31 12:50:13] | [info] | kakao.js     | 16880188           | [01038989159] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 490","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"490","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 12:50:13] | [info] | home.js      | 16880188           | [01038989159] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 강동구 상일동 490","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"상일동","mountain_yn":"N","main_address_no":"490","sub_address_no":"","zip_code":""}}]}
+[2021-12-31 12:55:03] | [info] | lbs.js       | 16880188           | [01090438074] Request Body : sejongdr3#sejongdr3#01090438074
+[2021-12-31 12:55:03] | [info] | lbs.js       | 16880188           | [01090438074] LBS Socket Connected
+[2021-12-31 12:55:14] | [info] | lbs.js       | 16880188           | [01090438074] Receive Data : 01090438074 #KTF#37521572  #127221529 #20211231125513#465110 #경기 하남시 천현동                                #C
+[2021-12-31 12:55:14] | [info] | lbs.js       | 16880188           | [01090438074] Return Data : 37.521572 ,127.221529
+[2021-12-31 12:55:14] | [info] | home.js      | 16880188           | [01090438074] lbs_data result : {"a":"37.521572","b":"127.221529"}
+[2021-12-31 12:55:14] | [info] | kakao.js     | 16880188           | [01090438074] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.221529&y=37.521572
+[2021-12-31 12:55:14] | [info] | lbs.js       | 16880188           | [01090438074] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 12:55:14] | [info] | lbs.js       | 16880188           | [01090438074] 소켓 닫힘
+[2021-12-31 12:55:14] | [info] | kakao.js     | 16880188           | [01090438074] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 하남시 천현동 535-19","region_1depth_name":"경기","region_2depth_name":"하남시","region_3depth_name":"천현동","mountain_yn":"N","main_address_no":"535","sub_address_no":"19","zip_code":""}}]}
+[2021-12-31 12:55:14] | [info] | home.js      | 16880188           | [01090438074] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 하남시 천현동 535-19","region_1depth_name":"경기","region_2depth_name":"하남시","region_3depth_name":"천현동","mountain_yn":"N","main_address_no":"535","sub_address_no":"19","zip_code":""}}]}
+[2021-12-31 13:05:34] | [info] | lbs.js       | 16880188           | [01090159999] Request Body : sejongdr3#sejongdr3#01090159999
+[2021-12-31 13:05:34] | [info] | lbs.js       | 16880188           | [01090159999] LBS Socket Connected
+[2021-12-31 13:05:49] | [info] | lbs.js       | 16880188           | [01090159999] 소켓 타임아웃
+[2021-12-31 13:05:49] | [info] | home.js      | 16880188           | [01090159999] lbs_data result : "noLbsData"
+[2021-12-31 13:05:49] | [info] | lbs.js       | 16880188           | [01090159999] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 13:05:49] | [info] | lbs.js       | 16880188           | [01090159999] 소켓 닫힘
+[2021-12-31 15:10:39] | [info] | lbs.js       | 16880188           | [01034459624] Request Body : sejongdr3#sejongdr3#01034459624
+[2021-12-31 15:10:39] | [info] | lbs.js       | 16880188           | [01034459624] LBS Socket Connected
+[2021-12-31 15:10:41] | [info] | lbs.js       | 16880188           | [01034459624] Receive Data : 01034459624 #SKT#37566600  #127456835 #20211231151040#       #경기 양평군 옥천면 신복리                         #W
+[2021-12-31 15:10:41] | [info] | lbs.js       | 16880188           | [01034459624] Return Data : 37.566600 ,127.456835
+[2021-12-31 15:10:41] | [info] | home.js      | 16880188           | [01034459624] lbs_data result : {"a":"37.566600","b":"127.456835"}
+[2021-12-31 15:10:41] | [info] | kakao.js     | 16880188           | [01034459624] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.456835&y=37.566600
+[2021-12-31 15:10:41] | [info] | lbs.js       | 16880188           | [01034459624] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 15:10:41] | [info] | lbs.js       | 16880188           | [01034459624] 소켓 닫힘
+[2021-12-31 15:10:41] | [info] | kakao.js     | 16880188           | [01034459624] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 양평군 옥천면 신복리 141-5","region_1depth_name":"경기","region_2depth_name":"양평군","region_3depth_name":"옥천면 신복리","mountain_yn":"N","main_address_no":"141","sub_address_no":"5","zip_code":""}}]}
+[2021-12-31 15:10:41] | [info] | home.js      | 16880188           | [01034459624] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 양평군 옥천면 신복리 141-5","region_1depth_name":"경기","region_2depth_name":"양평군","region_3depth_name":"옥천면 신복리","mountain_yn":"N","main_address_no":"141","sub_address_no":"5","zip_code":""}}]}
+[2021-12-31 15:11:01] | [info] | lbs.js       | 16880188           | [01034459624] Request Body : sejongdr3#sejongdr3#01034459624
+[2021-12-31 15:11:01] | [info] | lbs.js       | 16880188           | [01034459624] LBS Socket Connected
+[2021-12-31 15:11:03] | [info] | lbs.js       | 16880188           | [01034459624] Receive Data : 01034459624 #SKT#37566624  #127456794 #20211231151102#       #경기 양평군 옥천면 신복리                         #W
+[2021-12-31 15:11:03] | [info] | lbs.js       | 16880188           | [01034459624] Return Data : 37.566624 ,127.456794
+[2021-12-31 15:11:03] | [info] | home.js      | 16880188           | [01034459624] lbs_data result : {"a":"37.566624","b":"127.456794"}
+[2021-12-31 15:11:03] | [info] | kakao.js     | 16880188           | [01034459624] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.456794&y=37.566624
+[2021-12-31 15:11:03] | [info] | lbs.js       | 16880188           | [01034459624] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 15:11:03] | [info] | lbs.js       | 16880188           | [01034459624] 소켓 닫힘
+[2021-12-31 15:11:03] | [info] | kakao.js     | 16880188           | [01034459624] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 양평군 옥천면 신복리 141-5","region_1depth_name":"경기","region_2depth_name":"양평군","region_3depth_name":"옥천면 신복리","mountain_yn":"N","main_address_no":"141","sub_address_no":"5","zip_code":""}}]}
+[2021-12-31 15:11:03] | [info] | home.js      | 16880188           | [01034459624] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"경기 양평군 옥천면 신복리 141-5","region_1depth_name":"경기","region_2depth_name":"양평군","region_3depth_name":"옥천면 신복리","mountain_yn":"N","main_address_no":"141","sub_address_no":"5","zip_code":""}}]}
+[2021-12-31 15:15:14] | [info] | lbs.js       | 16880188           | [01053823759] Request Body : sejongdr3#sejongdr3#01053823759
+[2021-12-31 15:15:14] | [info] | lbs.js       | 16880188           | [01053823759] LBS Socket Connected
+[2021-12-31 15:15:19] | [info] | lbs.js       | 16880188           | [01053823759] Receive Data : 01053823759 #KTF#37554960  #127134712 #20211231151517#000000 #서울 강동구 암사제3동                             #C
+[2021-12-31 15:15:19] | [info] | lbs.js       | 16880188           | [01053823759] Return Data : 37.554960 ,127.134712
+[2021-12-31 15:15:19] | [info] | home.js      | 16880188           | [01053823759] lbs_data result : {"a":"37.554960","b":"127.134712"}
+[2021-12-31 15:15:19] | [info] | kakao.js     | 16880188           | [01053823759] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.134712&y=37.554960
+[2021-12-31 15:15:19] | [info] | lbs.js       | 16880188           | [01053823759] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 15:15:19] | [info] | lbs.js       | 16880188           | [01053823759] 소켓 닫힘
+[2021-12-31 15:15:19] | [info] | kakao.js     | 16880188           | [01053823759] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 고덕로 85","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"고덕로","underground_yn":"N","main_building_no":"85","sub_building_no":"","building_name":"","zone_no":"05237"},"address":{"address_name":"서울 강동구 암사동 446-18","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"암사동","mountain_yn":"N","main_address_no":"446","sub_address_no":"18","zip_code":""}}]}
+[2021-12-31 15:15:19] | [info] | home.js      | 16880188           | [01053823759] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 고덕로 85","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"고덕로","underground_yn":"N","main_building_no":"85","sub_building_no":"","building_name":"","zone_no":"05237"},"address":{"address_name":"서울 강동구 암사동 446-18","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"암사동","mountain_yn":"N","main_address_no":"446","sub_address_no":"18","zip_code":""}}]}
+[2021-12-31 15:15:47] | [info] | lbs.js       | 16880188           | [01053823759] Request Body : sejongdr3#sejongdr3#01053823759
+[2021-12-31 15:15:47] | [info] | lbs.js       | 16880188           | [01053823759] LBS Socket Connected
+[2021-12-31 15:15:56] | [info] | lbs.js       | 16880188           | [01053823759] Receive Data : 01053823759 #KTF#37554966  #127134720 #20211231151555#000000 #서울 강동구 암사제3동                             #C
+[2021-12-31 15:15:56] | [info] | lbs.js       | 16880188           | [01053823759] Return Data : 37.554966 ,127.134720
+[2021-12-31 15:15:56] | [info] | home.js      | 16880188           | [01053823759] lbs_data result : {"a":"37.554966","b":"127.134720"}
+[2021-12-31 15:15:56] | [info] | kakao.js     | 16880188           | [01053823759] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=127.134720&y=37.554966
+[2021-12-31 15:15:56] | [info] | lbs.js       | 16880188           | [01053823759] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 15:15:56] | [info] | lbs.js       | 16880188           | [01053823759] 소켓 닫힘
+[2021-12-31 15:15:56] | [info] | kakao.js     | 16880188           | [01053823759] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 고덕로 85","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"고덕로","underground_yn":"N","main_building_no":"85","sub_building_no":"","building_name":"","zone_no":"05237"},"address":{"address_name":"서울 강동구 암사동 446-18","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"암사동","mountain_yn":"N","main_address_no":"446","sub_address_no":"18","zip_code":""}}]}
+[2021-12-31 15:15:56] | [info] | home.js      | 16880188           | [01053823759] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":{"address_name":"서울특별시 강동구 고덕로 85","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"","road_name":"고덕로","underground_yn":"N","main_building_no":"85","sub_building_no":"","building_name":"","zone_no":"05237"},"address":{"address_name":"서울 강동구 암사동 446-18","region_1depth_name":"서울","region_2depth_name":"강동구","region_3depth_name":"암사동","mountain_yn":"N","main_address_no":"446","sub_address_no":"18","zip_code":""}}]}
+[2021-12-31 15:24:58] | [info] | lbs.js       | 16880188           | [01079970114] Request Body : sejongdr3#sejongdr3#01079970114
+[2021-12-31 15:24:58] | [info] | lbs.js       | 16880188           | [01079970114] LBS Socket Connected
+[2021-12-31 15:25:01] | [info] | lbs.js       | 16880188           | [01079970114] Receive Data : 01079970114 #SKT#37570272  #126978053 #20211231152500#       #서울 종로구 종로1가                               #W
+[2021-12-31 15:25:01] | [info] | lbs.js       | 16880188           | [01079970114] Return Data : 37.570272 ,126.978053
+[2021-12-31 15:25:01] | [info] | home.js      | 16880188           | [01079970114] lbs_data result : {"a":"37.570272","b":"126.978053"}
+[2021-12-31 15:25:01] | [info] | kakao.js     | 16880188           | [01079970114] kakao query value : https://dapi.kakao.com/v2/local/geo/coord2address.json?x=126.978053&y=37.570272
+[2021-12-31 15:25:01] | [info] | lbs.js       | 16880188           | [01079970114] 클라이언트가 서버에서 연결 해제되었습니다.
+[2021-12-31 15:25:01] | [info] | lbs.js       | 16880188           | [01079970114] 소켓 닫힘
+[2021-12-31 15:25:01] | [info] | kakao.js     | 16880188           | [01079970114] Received  Data : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 종로구 종로1가 1-3","region_1depth_name":"서울","region_2depth_name":"종로구","region_3depth_name":"종로1가","mountain_yn":"N","main_address_no":"1","sub_address_no":"3","zip_code":""}}]}
+[2021-12-31 15:25:01] | [info] | home.js      | 16880188           | [01079970114] kakao_data result : {"meta":{"total_count":1},"documents":[{"road_address":null,"address":{"address_name":"서울 종로구 종로1가 1-3","region_1depth_name":"서울","region_2depth_name":"종로구","region_3depth_name":"종로1가","mountain_yn":"N","main_address_no":"1","sub_address_no":"3","zip_code":""}}]}
