@@ -1,0 +1,11 @@
+2021-11-15 18:12:30	|	index.js	|	start index.js
+2021-11-15 18:12:30	|	index.js	|	req.body : [object Object]
+2021-11-15 18:13:26	|	index.js	|	start index.js
+2021-11-15 18:13:26	|	index.js	|	req.body : undefined
+2021-11-15 18:20:15	|	index.js	|	req.body.bodyParser : undefined
+2021-11-15 18:20:15	|	index.js	|	start index.js
+2021-11-15 18:20:15	|	index.js	|	req.body : [object Object]
+2021-11-15 18:21:10	|	index.js	|	start index.js
+2021-11-15 18:21:10	|	index.js	|	req.body : [object Object]
+2021-11-15 18:21:48	|	index.js	|	start index.js
+2021-11-15 18:21:48	|	index.js	|	req.body : [object Object]
