@@ -1,0 +1,423 @@
+2021-11-17 08:46:36	|	index.js	|	start index.js
+2021-11-17 08:46:36	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 08:46:36	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:46:36	|	ariService.js	|	start ari Service
+2021-11-17 08:46:36	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:46:36	|	ariService.js	|	try -catch error
+2021-11-17 08:51:24	|	index.js	|	start index.js
+2021-11-17 08:51:24	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 08:51:24	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:51:24	|	ariService.js	|	start ari Service
+2021-11-17 08:51:24	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:51:24	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:51:24	|	dataParser.js	|	data Parser start
+2021-11-17 08:51:24	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:51:24	|	ariService.js	|	try -catch error
+2021-11-17 08:52:58	|	index.js	|	start index.js
+2021-11-17 08:52:58	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 08:52:58	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:52:58	|	ariService.js	|	start ari Service
+2021-11-17 08:52:58	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:52:58	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:52:58	|	dataParser.js	|	data Parser start
+2021-11-17 08:52:58	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:52:58	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:52:58	|	dataParser.js	|	data json parse fail
+2021-11-17 08:52:58	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:52:58	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:52:58	|	ariService.js	|	try -catch error
+2021-11-17 08:54:26	|	index.js	|	start index.js
+2021-11-17 08:54:26	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 08:54:26	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	ariService.js	|	start ari Service
+2021-11-17 08:54:26	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	ariService.js	|	
+2021-11-17 08:54:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	dataParser.js	|	data Parser start
+2021-11-17 08:54:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	dataParser.js	|	
+2021-11-17 08:54:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	dataParser.js	|	data json parse fail
+2021-11-17 08:54:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	dataParser.js	|	
+2021-11-17 08:54:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	ariService.js	|	try -catch error
+2021-11-17 08:54:26	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:54:26	|	ariService.js	|	
+2021-11-17 08:59:26	|	index.js	|	start index.js
+2021-11-17 08:59:26	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 08:59:26	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:59:26	|	ariService.js	|	start ari Service
+2021-11-17 08:59:26	|	ariService.js	|	-----------------------------------------
+2021-11-17 08:59:26	|	ariService.js	|	
+2021-11-17 08:59:26	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 08:59:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:59:26	|	dataParser.js	|	data Parser start
+2021-11-17 08:59:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:59:26	|	dataParser.js	|	
+2021-11-17 08:59:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:59:26	|	dataParser.js	|	ID : asterisk
+2021-11-17 08:59:26	|	dataParser.js	|	password : asteriskpw
+2021-11-17 08:59:26	|	dataParser.js	|	context : from-internal
+2021-11-17 08:59:26	|	dataParser.js	|	extension : 07079999790
+2021-11-17 08:59:26	|	dataParser.js	|	priority : 1
+2021-11-17 08:59:26	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 08:59:26	|	dataParser.js	|	callerId : 16880001
+2021-11-17 08:59:26	|	dataParser.js	|	-----------------------------------------
+2021-11-17 08:59:26	|	dataParser.js	|	
+2021-11-17 09:01:44	|	index.js	|	start index.js
+2021-11-17 09:01:44	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:01:44	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	ariService.js	|	start ari Service
+2021-11-17 09:01:44	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	ariService.js	|	
+2021-11-17 09:01:44	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:01:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	dataParser.js	|	data Parser start
+2021-11-17 09:01:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	dataParser.js	|	
+2021-11-17 09:01:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:01:44	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:01:44	|	dataParser.js	|	context : from-internal
+2021-11-17 09:01:44	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:01:44	|	dataParser.js	|	priority : 1
+2021-11-17 09:01:44	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:01:44	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:01:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	dataParser.js	|	
+2021-11-17 09:01:44	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	ariService.js	|	ID : asterisk
+2021-11-17 09:01:44	|	ariService.js	|	password : asteriskpw
+2021-11-17 09:01:44	|	ariService.js	|	context : from-internal
+2021-11-17 09:01:44	|	ariService.js	|	extension : 07079999790
+2021-11-17 09:01:44	|	ariService.js	|	priority : 1
+2021-11-17 09:01:44	|	ariService.js	|	calledId : 01075761807
+2021-11-17 09:01:44	|	ariService.js	|	callerId : 16880001
+2021-11-17 09:01:44	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:01:44	|	ariService.js	|	
+2021-11-17 09:17:07	|	index.js	|	start index.js
+2021-11-17 09:17:07	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:17:07	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	ariService.js	|	start ari Service
+2021-11-17 09:17:07	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	ariService.js	|	
+2021-11-17 09:17:07	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:17:07	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	dataParser.js	|	data Parser start
+2021-11-17 09:17:07	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	dataParser.js	|	
+2021-11-17 09:17:07	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:17:07	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:17:07	|	dataParser.js	|	context : from-internal
+2021-11-17 09:17:07	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:17:07	|	dataParser.js	|	priority : 1
+2021-11-17 09:17:07	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:17:07	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:17:07	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	dataParser.js	|	
+2021-11-17 09:17:07	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	ariService.js	|	ID : asterisk
+2021-11-17 09:17:07	|	ariService.js	|	password : asteriskpw
+2021-11-17 09:17:07	|	ariService.js	|	context : from-internal
+2021-11-17 09:17:07	|	ariService.js	|	extension : 07079999790
+2021-11-17 09:17:07	|	ariService.js	|	priority : 1
+2021-11-17 09:17:07	|	ariService.js	|	calledId : 01075761807
+2021-11-17 09:17:07	|	ariService.js	|	callerId : 16880001
+2021-11-17 09:17:07	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:17:07	|	ariService.js	|	
+2021-11-17 09:19:06	|	index.js	|	start index.js
+2021-11-17 09:19:06	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:19:06	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	ariService.js	|	start ari Service
+2021-11-17 09:19:06	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	ariService.js	|	
+2021-11-17 09:19:06	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:19:06	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	dataParser.js	|	data Parser start
+2021-11-17 09:19:06	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	dataParser.js	|	
+2021-11-17 09:19:06	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:19:06	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:19:06	|	dataParser.js	|	context : from-internal
+2021-11-17 09:19:06	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:19:06	|	dataParser.js	|	priority : 1
+2021-11-17 09:19:06	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:19:06	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:19:06	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	dataParser.js	|	
+2021-11-17 09:19:06	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	dataCommand.js	|	dataCommand Start
+2021-11-17 09:19:06	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	dataCommand.js	|	
+2021-11-17 09:19:06	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	ariService.js	|	try -catch error
+2021-11-17 09:19:06	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:06	|	ariService.js	|	
+2021-11-17 09:19:45	|	index.js	|	start index.js
+2021-11-17 09:19:45	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:19:45	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	ariService.js	|	start ari Service
+2021-11-17 09:19:45	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	ariService.js	|	
+2021-11-17 09:19:45	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:19:45	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	dataParser.js	|	data Parser start
+2021-11-17 09:19:45	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	dataParser.js	|	
+2021-11-17 09:19:45	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:19:45	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:19:45	|	dataParser.js	|	context : from-internal
+2021-11-17 09:19:45	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:19:45	|	dataParser.js	|	priority : 1
+2021-11-17 09:19:45	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:19:45	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:19:45	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	dataParser.js	|	
+2021-11-17 09:19:45	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	dataCommand.js	|	dataCommand Start
+2021-11-17 09:19:45	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	dataCommand.js	|	
+2021-11-17 09:19:45	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	ariService.js	|	try -catch error
+2021-11-17 09:19:45	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:19:45	|	ariService.js	|	
+2021-11-17 09:21:44	|	index.js	|	start index.js
+2021-11-17 09:21:44	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:21:44	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	ariService.js	|	start ari Service
+2021-11-17 09:21:44	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	ariService.js	|	
+2021-11-17 09:21:44	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:21:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	dataParser.js	|	data Parser start
+2021-11-17 09:21:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	dataParser.js	|	
+2021-11-17 09:21:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:21:44	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:21:44	|	dataParser.js	|	context : from-internal
+2021-11-17 09:21:44	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:21:44	|	dataParser.js	|	priority : 1
+2021-11-17 09:21:44	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:21:44	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:21:44	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	dataParser.js	|	
+2021-11-17 09:21:44	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	dataCommand.js	|	dataCommand Start
+2021-11-17 09:21:44	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	dataCommand.js	|	
+2021-11-17 09:21:44	|	dataCommand.js	|	curl -v -u asterisk:asterisk -X POST "http://localhost:8088/ari/channels?endpoint=PJSIP/01075761807@sst&extension=07079999790&context=from-internal&priority=1&callerId=16880001"
+2021-11-17 09:21:44	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:21:44	|	dataCommand.js	|	
+2021-11-17 09:30:38	|	index.js	|	start index.js
+2021-11-17 09:30:38	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:30:38	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	ariService.js	|	start ari Service
+2021-11-17 09:30:38	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	ariService.js	|	
+2021-11-17 09:30:38	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:30:38	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataParser.js	|	data Parser start
+2021-11-17 09:30:38	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataParser.js	|	
+2021-11-17 09:30:38	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:30:38	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:30:38	|	dataParser.js	|	context : from-internal
+2021-11-17 09:30:38	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:30:38	|	dataParser.js	|	priority : 1
+2021-11-17 09:30:38	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:30:38	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:30:38	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataParser.js	|	
+2021-11-17 09:30:38	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataCommand.js	|	dataCommand Start
+2021-11-17 09:30:38	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataCommand.js	|	
+2021-11-17 09:30:38	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataCommand.js	|	curl -v -u asterisk:asterisk -X POST "http://localhost:8088/ari/channels?endpoint=PJSIP/01075761807@sst&extension=07079999790&context=from-internal&priority=1&callerId=16880001"
+2021-11-17 09:30:38	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	dataCommand.js	|	
+2021-11-17 09:30:38	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	cmd.js	|	cmd start
+2021-11-17 09:30:38	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:30:38	|	cmd.js	|	
+2021-11-17 09:30:41	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	index.js	|	start index.js
+2021-11-17 09:34:00	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:34:00	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	ariService.js	|	start ari Service
+2021-11-17 09:34:00	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	ariService.js	|	
+2021-11-17 09:34:00	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:34:00	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataParser.js	|	data Parser start
+2021-11-17 09:34:00	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataParser.js	|	
+2021-11-17 09:34:00	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:34:00	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:34:00	|	dataParser.js	|	context : from-internal
+2021-11-17 09:34:00	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:34:00	|	dataParser.js	|	priority : 1
+2021-11-17 09:34:00	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:34:00	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:34:00	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataParser.js	|	
+2021-11-17 09:34:00	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataCommand.js	|	dataCommand Start
+2021-11-17 09:34:00	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataCommand.js	|	
+2021-11-17 09:34:00	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataCommand.js	|	curl -v -u asterisk:asterisk -X POST "http://localhost:8088/ari/channels?endpoint=PJSIP/01075761807@sst&extension=07079999790&context=from-internal&priority=1&callerId=16880001"
+2021-11-17 09:34:00	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	dataCommand.js	|	
+2021-11-17 09:34:00	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	cmd.js	|	cmd start
+2021-11-17 09:34:00	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:00	|	cmd.js	|	
+2021-11-17 09:34:05	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:05	|	cmd.js	|	stdout : 
+2021-11-17 09:34:05	|	cmd.js	|	stderr :   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying ::1...
+* TCP_NODELAY set
+*   Trying 127.0.0.1...
+* TCP_NODELAY set
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0* connect to ::1 port 8088 failed: Connection refused
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0* connect to 127.0.0.1 port 8088 failed: Connection refused
+* Failed to connect to localhost port 8088: Connection refused
+* Closing connection 0
+curl: (7) Failed to connect to localhost port 8088: Connection refused
+
+2021-11-17 09:34:05	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:05	|	cmd.js	|	
+2021-11-17 09:34:05	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:05	|	cmd.js	|	exec error : Error: Command failed: curl -v -u asterisk:asterisk -X POST "http://localhost:8088/ari/channels?endpoint=PJSIP/01075761807@sst&extension=07079999790&context=from-internal&priority=1&callerId=16880001"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying ::1...
+* TCP_NODELAY set
+*   Trying 127.0.0.1...
+* TCP_NODELAY set
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0* connect to ::1 port 8088 failed: Connection refused
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0* connect to 127.0.0.1 port 8088 failed: Connection refused
+* Failed to connect to localhost port 8088: Connection refused
+* Closing connection 0
+curl: (7) Failed to connect to localhost port 8088: Connection refused
+
+2021-11-17 09:34:05	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:05	|	cmd.js	|	
+2021-11-17 09:34:40	|	index.js	|	start index.js
+2021-11-17 09:34:40	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:34:40	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	ariService.js	|	start ari Service
+2021-11-17 09:34:40	|	ariService.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	ariService.js	|	
+2021-11-17 09:34:40	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 09:34:40	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataParser.js	|	data Parser start
+2021-11-17 09:34:40	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataParser.js	|	
+2021-11-17 09:34:40	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataParser.js	|	ID : asterisk
+2021-11-17 09:34:40	|	dataParser.js	|	password : asteriskpw
+2021-11-17 09:34:40	|	dataParser.js	|	context : from-internal
+2021-11-17 09:34:40	|	dataParser.js	|	extension : 07079999790
+2021-11-17 09:34:40	|	dataParser.js	|	priority : 1
+2021-11-17 09:34:40	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 09:34:40	|	dataParser.js	|	callerId : 16880001
+2021-11-17 09:34:40	|	dataParser.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataParser.js	|	
+2021-11-17 09:34:40	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataCommand.js	|	dataCommand Start
+2021-11-17 09:34:40	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataCommand.js	|	
+2021-11-17 09:34:40	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataCommand.js	|	curl -v -u asterisk:asterisk -X POST "http://localhost:8088/ari/channels?endpoint=PJSIP/01075761807@sst&extension=07079999790&context=from-internal&priority=1&callerId=16880001"
+2021-11-17 09:34:40	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	dataCommand.js	|	
+2021-11-17 09:34:40	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	cmd.js	|	cmd start
+2021-11-17 09:34:40	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	cmd.js	|	
+2021-11-17 09:34:40	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	cmd.js	|	stdout :  C ����̺��� ����: localDisk
+ ���� �Ϸ� ��ȣ: 860D-E75A
+
+ C:\Users\JongSun\Desktop\Project\javascript\nodejs\asterisk_ARI_1 ���͸�
+
+2021-11-16  ���� 05:20    <DIR>          .
+2021-11-16  ���� 05:20    <DIR>          ..
+2021-11-17  ���� 09:18               841 index.js
+2021-11-17  ���� 08:46    <DIR>          logs
+2021-11-16  ���� 05:20    <DIR>          node_modules
+2021-11-16  ���� 05:20            18,044 package-lock.json
+2021-11-16  ���� 05:20               361 package.json
+2021-11-15  ���� 01:43    <DIR>          services
+2021-11-17  ���� 09:10    <DIR>          utils
+               3�� ����              19,246 ����Ʈ
+               6�� ���͸�  123,277,873,152 ����Ʈ ����
+
+2021-11-17 09:34:40	|	cmd.js	|	stderr : 
+2021-11-17 09:34:40	|	cmd.js	|	-----------------------------------------
+2021-11-17 09:34:40	|	cmd.js	|	
+2021-11-17 10:35:55	|	index.js	|	start index.js
+2021-11-17 10:35:55	|	index.js	|	req.body : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 10:35:55	|	ariService.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	ariService.js	|	start ari Service
+2021-11-17 10:35:55	|	ariService.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	ariService.js	|	
+2021-11-17 10:35:55	|	dataParser.js	|	data string : {"ID":"asterisk","password":"asteriskpw","context":"from-internal","extension":"07079999790","priority":"1","calledId":"01075761807","callerId":"16880001"}
+2021-11-17 10:35:55	|	dataParser.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataParser.js	|	data Parser start
+2021-11-17 10:35:55	|	dataParser.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataParser.js	|	
+2021-11-17 10:35:55	|	dataParser.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataParser.js	|	ID : asterisk
+2021-11-17 10:35:55	|	dataParser.js	|	password : asteriskpw
+2021-11-17 10:35:55	|	dataParser.js	|	context : from-internal
+2021-11-17 10:35:55	|	dataParser.js	|	extension : 07079999790
+2021-11-17 10:35:55	|	dataParser.js	|	priority : 1
+2021-11-17 10:35:55	|	dataParser.js	|	calledId : 01075761807
+2021-11-17 10:35:55	|	dataParser.js	|	callerId : 16880001
+2021-11-17 10:35:55	|	dataParser.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataParser.js	|	
+2021-11-17 10:35:55	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataCommand.js	|	dataCommand Start
+2021-11-17 10:35:55	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataCommand.js	|	
+2021-11-17 10:35:55	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataCommand.js	|	curl -v -u asterisk:asterisk -X POST "http://localhost:8088/ari/channels?endpoint=PJSIP/01075761807@sst&extension=07079999790&context=from-internal&priority=1&callerId=16880001"
+2021-11-17 10:35:55	|	dataCommand.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	dataCommand.js	|	
+2021-11-17 10:35:55	|	cmd.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	cmd.js	|	cmd start
+2021-11-17 10:35:55	|	cmd.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	cmd.js	|	
+2021-11-17 10:35:55	|	cmd.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	cmd.js	|	stdout :  C ����̺��� ����: localDisk
+ ���� �Ϸ� ��ȣ: 860D-E75A
+
+ C:\Users\JongSun\Desktop\Project\javascript\nodejs\asterisk_ARI_1 ���͸�
+
+2021-11-17  ���� 09:48    <DIR>          .
+2021-11-17  ���� 09:48    <DIR>          ..
+2021-11-17  ���� 09:18               841 index.js
+2021-11-17  ���� 08:46    <DIR>          logs
+2021-11-16  ���� 05:20    <DIR>          node_modules
+2021-11-16  ���� 05:20            18,044 package-lock.json
+2021-11-16  ���� 05:20               361 package.json
+2021-11-15  ���� 01:43    <DIR>          services
+2021-11-17  ���� 09:10    <DIR>          utils
+               3�� ����              19,246 ����Ʈ
+               6�� ���͸�  123,274,792,960 ����Ʈ ����
+
+2021-11-17 10:35:55	|	cmd.js	|	stderr : 
+2021-11-17 10:35:55	|	cmd.js	|	-----------------------------------------
+2021-11-17 10:35:55	|	cmd.js	|	
