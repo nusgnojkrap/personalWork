@@ -1,4 +1,6 @@
 let fs = require("fs");
+let dateformat = require("dateformat");
+let date = new Date();
 
 function jongston(filepath, filename, log) {
     return new Promise((resolve, reject) => {
@@ -13,6 +15,7 @@ function jongston(filepath, filename, log) {
         if (filename[filename.length - 1] == "/") {
             filename = filename.substring(0, filename.length - 1);
         }
+        filename = filename + "." + date.toISOString().substring(0, 10);
 
         if (log[log.length - 1] == "\n") {
             log = log.substring(0, log.length - 1);
@@ -20,8 +23,9 @@ function jongston(filepath, filename, log) {
             log = log + "\n";
         }
 
-        console.log("filepath : " + filepath);
-        console.log("filename : " + filename);
+        log = "[" + date.toISOString().substring(0, 10) + " " + date.toISOString().substring(12, 19) + "]" + log;
+
+        console.log(dateformat(new Date(), "yyyy-mm-dd"));
 
         if (fs.existsSync(filepath) == false) {
             fs.mkdirSync(filepath);
@@ -29,22 +33,13 @@ function jongston(filepath, filename, log) {
 
         if (fs.existsSync(filepath + "/" + filename) == false) {
             fs.writeFile(filepath + "/" + filename, log, function (err) {
-                if (err === null) {
-                    console.log("success");
-                } else {
-                    console.log("fail");
-                }
+                resolve();
             });
         } else {
             fs.appendFile(filepath + "/" + filename, log, function (err) {
-                if (err) {
-                    return console.log(err);
-                }
-                console.log("File Appended");
+                resolve();
             });
         }
-
-        resolve();
     });
 }
 
