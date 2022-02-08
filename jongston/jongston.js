@@ -1,5 +1,4 @@
 let fs = require("fs");
-let dateformat = require("dateformat");
 let date = new Date();
 
 function jongston(filepath, filename, log) {
@@ -22,10 +21,29 @@ function jongston(filepath, filename, log) {
         } else {
             log = log + "\n";
         }
-
-        log = "[" + date.toISOString().substring(0, 10) + " " + date.toISOString().substring(12, 19) + "]" + log;
-
-        console.log(dateformat(new Date(), "yyyy-mm-dd"));
+        let hours = date.getHours();
+        if (date.getHours().length == 1) {
+            hours = "0" + hours;
+        }
+        let minute = date.getMinutes();
+        if (date.getMinutes() < 10) {
+            minute = "0" + minute.toString();
+        }
+        let second = date.getSeconds();
+        if (date.getSeconds() < 10) {
+            second = "0" + second.toString();
+        }
+        let month = date.getMonth() + 1;
+        if (date.getMonth() <= 10) {
+            month = "0" + month.toString();
+        }
+        let nowdate = date.getDate();
+        if (date.getDate() <= 9) {
+            nowdate = "0" + (date.getDate() + 1).toString();
+        } else {
+            nowdate = nowdate + 1;
+        }
+        log = "[" + date.getFullYear() + "-" + month + "-" + nowdate + " " + hours + ":" + minute + ":" + second + "]" + "\t" + log;
 
         if (fs.existsSync(filepath) == false) {
             fs.mkdirSync(filepath);
