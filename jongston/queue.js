@@ -1,6 +1,6 @@
 const { jongston } = require("./jongston");
 
-class LoggerStack {
+class LoggerQueue {
     constructor(filepath, filename) {
         this.logger = [];
         this.start = false;
@@ -39,4 +39,4 @@ class LoggerStack {
     }
 }
 
-module.exports.LoggerStack = LoggerStack;
+module.exports.LoggerQueue = LoggerQueue;
