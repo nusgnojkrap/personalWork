@@ -1,26 +1,39 @@
 /* changed */
-class MyQueueClass {
-    constructor() {
-        this.concurrentQueue = []; //무한대로 쌓이는 큐
-        this.SCV = []; // 최대 동시 허용량
-        for (let i = 0; i < 3; i++) {
+class Concurrentqueue {
+    constructor(SCVlength) {
+        this.queue = [];
+        this.SCV = [];
+        for (let i = 0; i < SCVlength; i++) {
             this.SCV[i] = true;
         }
     }
 
-    async queue2SCV() {
-        while (this.concurrentQueue.length != 0) {
-            for (let i = 0; i < this.SCV.length; i++) {
-                if (this.SCV[i] == true && this.concurrentQueue.length != 0) {
-                    //사용
-                    this.SCV[i] = false;
-                    console.log(this.concurrentQueue.length);
-                    let func = this.concurrentQueue.shift();
-                    await func();
-                    this.SCV[i] = true;
-                }
+    qpush(active) {
+        this.queue.push(active);
+        this.queue2SCV();
+    }
+
+    queue2SCV() {
+        let active = this.queue.shift();
+        for (let i = 0; i < this.SCV.length; i++) {
+            if (this.SCV[i] == true) {
+                this.SCV[i] = false;
+                return this.SCVprocess(i);
+            }
+        }
+    }
+
+    async SCVprocess(idx) {
+        while (true) {
+            if (this.queue.length > 0) {
+                let func = this.queue.shift();
+                await func();
+            } else {
+                this.SCV[idx] = true;
+                return;
             }
         }
     }
 }
-module.exports.MyQueueClass = MyQueueClass;
+
+module.exports.Concurrentqueue = Concurrentqueue;
